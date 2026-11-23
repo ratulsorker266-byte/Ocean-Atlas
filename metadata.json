@@ -1,0 +1,6 @@
+{
+  "name": "Oceanic Atlas",
+  "description": "A multi-disciplinary educational encyclopedia and interactive learning atlas organized into dedicated stores for Science, Arts, Commerce, and Applied Knowledge across all age levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
